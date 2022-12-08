@@ -1,6 +1,5 @@
 # UniParser pytorch  
-This is an unofficial pytorch implement for paper: 
-'UniParser: A Unified Log Parser for Heterogeneous Log Data'
+unofficial pytorch implement for UniParser: A Unified Log Parser for Heterogeneous Log Data (WWW 2022)
 
 If you feel helpful for your work, please leave your Stars.
 ### Code organization:
