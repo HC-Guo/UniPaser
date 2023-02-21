@@ -1,7 +1,8 @@
 # UniParser pytorch  
 unofficial pytorch implement for UniParser: A Unified Log Parser for Heterogeneous Log Data (WWW 2022)
 
-If you feel helpful for your work, please leave your Stars.
+The code is used for solving log parsing problem. If you feel helpful for your work, please leave your Stars.
+
 ### Code organization:
 + [benchmark](benchmark): UniParser_benchmark scripts to reproduce the evaluation results.
 + [logparser](logparser): the logparser package, including the model file and other scripts.
